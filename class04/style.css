@@ -1,0 +1,23 @@
+header {
+    background-color: purple;
+}
+
+section {
+    background-color: black;
+    color: white;
+}
+
+p {
+    background-color: green;
+    color: white;
+}
+
+a {
+    background-color: brown;
+}
+
+div {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
